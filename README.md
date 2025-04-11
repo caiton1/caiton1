@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="left">👩‍💻 About Me</h3>
 <hr />
 
-<p align="left">I'm Connor Aiton, based in Phoenix, Arizona.<br><br>- 📚 I'm currently learning Backend Systems and DevOps automation principles. Next up on my list to learn is learn Java + Spring Boot 👀:<br>- ⚡ In my free time I like to game and ride mountain bikes. 🚲🎮</p>
+<p align="left">I'm Connor Aiton, based in Phoenix, Arizona.<br><br>- 📚 I'm currently learning Backend Systems and DevOps automation principles. Next up on my list to learn is learn Java + Spring Boot 👀<br>- ⚡ In my free time I like to game and ride mountain bikes. 🚲🎮</p>
 
 <p>😄 Pronouns: He/Him</p>
 <p>📫 How to reach me:<p>
